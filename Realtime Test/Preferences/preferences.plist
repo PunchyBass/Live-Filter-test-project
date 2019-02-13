@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tutorialOn</key>
+	<false/>
+	<key>appPurchased</key>
+	<string>NOPE</string>
+	<key>GIFQuality</key>
+	<integer>1</integer>
+	<key>photoVideoRepeats</key>
+	<integer>7</integer>
+	<key>recordMicInput</key>
+	<true/>
+	<key>timedMessageDuration</key>
+	<integer>6</integer>
+	<key>addLogo</key>
+	<true/>
+	<key>flashOn</key>
+	<false/>
+	<key>colorEnhanceOn</key>
+	<true/>
+</dict>
+</plist>
